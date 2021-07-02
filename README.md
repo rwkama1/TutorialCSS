@@ -12,9 +12,9 @@ Cada declaración incluye un nombre de propiedad CSS y un valor, separados por d
 
 Varias declaraciones CSS se separan con punto y coma y los bloques de declaración están rodeados por llaves.
 
-Ejemplo explicado 
+#### Ejemplo explicado 
 
-p:  es un selector en CSS (apunta al elemento HTML que desea aplicar estilo: <p>).
-color: es una propiedad y redes el valor de la propiedad
-text-align: es una propiedad y centeres el valor de la propiedad
+* p:  es un selector en CSS (apunta al elemento HTML que desea aplicar estilo: p).
+* color: es una propiedad y redes el valor de la propiedad
+* text-align: es una propiedad y centeres el valor de la propiedad
 
