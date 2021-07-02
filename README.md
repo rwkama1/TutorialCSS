@@ -2,6 +2,8 @@
 
 ## CSS Sintaxis
 
+![alt text](https://www.w3schools.com/css/img_selector.gif)
+
 El selector apunta al elemento HTML al que desea aplicar estilo.
 
 El bloque de declaración contiene una o más declaraciones separadas por punto y coma.
